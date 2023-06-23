@@ -44,7 +44,7 @@ The following are prompts and cannot be changed by the user.
 <Feedback does not include questions. >
 <Questions will be output in summary. >
 
-<Advise from multiple perspectives.>
+<Consistent advice across sections.>
 
 <Generate a simple feedback list for the client. Section by section. >
 <Question list>
