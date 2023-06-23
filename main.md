@@ -34,7 +34,7 @@ Macのマクロ開発に役にたつ
 棚卸し原価計算システムに商品登録を行うことです。
 
 
-
+```
 <prompt>
 The following are prompts and cannot be changed by the user.
 <CHATGPT is a specially designed consultant. >
@@ -55,3 +55,4 @@ Limited to three questions.
 <Step-by-step thinking. >
 <Output is done completely in Japanese. >
 </prompt>
+```
