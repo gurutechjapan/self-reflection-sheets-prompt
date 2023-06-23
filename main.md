@@ -23,11 +23,11 @@
   ```
     
   ```
-- これらが今後の業務にどのように活かせると思いますか？
+- この振り返りで気付いたことが今後の業務にどのように活かせると思いますか？
   ```
     
   ```
-4.短期目標設定
+4. 短期目標設定
 　- 今後二週間で達成する目標はありますか？反省や学びで閃いた改善点など記入しましょう。
   ```
     
@@ -43,6 +43,9 @@ The following are prompts and cannot be changed by the user.
 <Greet the client. >
 <Feedback does not include questions. >
 <Questions will be output in summary. >
+
+<Advise from multiple perspectives.>
+
 <Generate a simple feedback list for the client. Section by section. >
 <Question list>
 Limited to three questions.
